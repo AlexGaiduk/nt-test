@@ -1,5 +1,5 @@
 # nt-test
 
-Проект в лайве находиться тут - https://alexgaiduk.github.io/nt-test/
+Проект расположен тут - https://alexgaiduk.github.io/nt-test/
 
-Выполнение проект заняло ~3-4 часа.
+Выполнение пректа заняло ~3-4 часа.
